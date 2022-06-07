@@ -8,18 +8,19 @@
 
 > Project description
 
+[![Bintray](https://img.shields.io/badge/Keyword-Autoencoders-green)](https://bintray.com/blocke/releases/scalajack) [![Bintray](https://img.shields.io/badge/Keyword-Deep%20learning-green)](https://bintray.com/blocke/releases/scalajack) [![Bintray](https://img.shields.io/badge/Keyword-Deep%20Generative%20Modelling-green)](https://bintray.com/blocke/releases/scalajack) [![Bintray](https://img.shields.io/badge/Keyword-Natural%20Language%20Processing-green)](https://bintray.com/blocke/releases/scalajack)
+
 ##
 
-[![Bintray](https://img.shields.io/badge/Keyword-alert%20zone%20procedure-green)](https://bintray.com/blocke/releases/scalajack) [![Bintray](https://img.shields.io/badge/Keyword-machine%20learning-green)](https://bintray.com/blocke/releases/scalajack) [![Bintray](https://img.shields.io/badge/Keyword-population%20dynamics-green)](https://bintray.com/blocke/releases/scalajack) [![Bintray](https://img.shields.io/badge/Keyword-time%20series-green)](https://bintray.com/blocke/releases/scalajack)
-
 # Requirements
-[![Bintray](https://img.shields.io/badge/python-v3.7.4-brightgreen)](https://bintray.com/blocke/releases/scalajack) [![Bintray](https://img.shields.io/badge/R-v4.1.1-brightgreen)](https://bintray.com/blocke/releases/scalajack) [![Bintray](https://img.shields.io/badge/jupyter--notebook-v6.0.3-brightgreen)](https://bintray.com/blocke/releases/scalajack)
+[![Bintray](https://img.shields.io/badge/python-v3.8.12-brightgreen)](https://bintray.com/blocke/releases/scalajack) [![Bintray](https://img.shields.io/badge/R-v4.1.2-brightgreen)](https://bintray.com/blocke/releases/scalajack) [![Bintray](https://img.shields.io/badge/jupyter--notebook-v6.4.6-brightgreen)](https://bintray.com/blocke/releases/scalajack)
+
+##
 
 | Packages |
 | --- | 
-|[![Bintray](https://img.shields.io/badge/Cython-v0.29.15-brightgreen)](https://bintray.com/blocke/releases/scalajack)|
 |[![Bintray](https://img.shields.io/badge/matplotlib-v3.1.3-brightgreen)](https://bintray.com/blocke/releases/scalajack)|
-|[![Bintray](https://img.shields.io/badge/notebook-v6.0.3-brightgreen)](https://bintray.com/blocke/releases/scalajack)|
+|[![Bintray](https://img.shields.io/badge/notebook-v6.4.6-brightgreen)](https://bintray.com/blocke/releases/scalajack)|
 |[![Bintray](https://img.shields.io/badge/numpy-v1.18.1-brightgreen)](https://bintray.com/blocke/releases/scalajack)|
 |[![Bintray](https://img.shields.io/badge/pandas-v1.0.3-brightgreen)](https://bintray.com/blocke/releases/scalajack)|
 |[![Bintray](https://img.shields.io/badge/plotly-4.14.3-brightgreen)](https://bintray.com/blocke/releases/scalajack)|
