@@ -1,4 +1,4 @@
-# Literature review
+<h1 align="center"> Literature review </h1>
 
 <p align="center">
   <img src="./review.gif">
