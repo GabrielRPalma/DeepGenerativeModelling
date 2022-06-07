@@ -1,10 +1,7 @@
 # Literature review
 
 <p align="center">
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js">
-</script>
-<lottie-player src="https://assets2.lottiefiles.com/private_files/lf30_pguaf3lh.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay>
-</lottie-player>
+  ![100337-research-lottie-animation](https://user-images.githubusercontent.com/58814900/172416677-21cf63ec-0f31-49a6-a0c0-80c61dd382e9.gif)
 </p>
 
 ##
