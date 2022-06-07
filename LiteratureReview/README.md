@@ -1,6 +1,7 @@
 # Literature review
 
-![100337-research-lottie-animation](https://user-images.githubusercontent.com/58814900/172417093-9227c9ff-a514-411b-9cc4-94c5b2c7bb09.gif)
+
+![animation_200_l44b3ovx](https://user-images.githubusercontent.com/58814900/172417858-cb6532eb-e225-4901-9c75-45a9465103e0.gif)
 
 ##
 
