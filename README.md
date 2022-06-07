@@ -15,8 +15,6 @@
 # Requirements
 [![Bintray](https://img.shields.io/badge/python-v3.8.12-brightgreen)](https://bintray.com/blocke/releases/scalajack) [![Bintray](https://img.shields.io/badge/R-v4.1.2-brightgreen)](https://bintray.com/blocke/releases/scalajack) [![Bintray](https://img.shields.io/badge/jupyter--notebook-v6.4.6-brightgreen)](https://bintray.com/blocke/releases/scalajack)
 
-##
-
 | Packages |
 | --- | 
 |[![Bintray](https://img.shields.io/badge/matplotlib-v3.1.3-brightgreen)](https://bintray.com/blocke/releases/scalajack)|
