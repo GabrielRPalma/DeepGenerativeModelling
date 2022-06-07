@@ -1,7 +1,6 @@
 # Literature review
 
-<iframe src="https://embed.lottiefiles.com/animation/100337"></iframe>
-
+![100337-research-lottie-animation](https://user-images.githubusercontent.com/58814900/172417093-9227c9ff-a514-411b-9cc4-94c5b2c7bb09.gif)
 
 ##
 
