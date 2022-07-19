@@ -11,8 +11,8 @@
 source('00_source.r')
 
 # Loading the datasets -----
-acc <- read.csv('5GdatasetAutoencoderAccuracy.csv')[,2]
-loss <- read.csv('5GdatasetAutoencoderLoss.csv')[,2]
+acc <- read.csv('input_data/5GdatasetAutoencoderAccuracy.csv')[,2]
+loss <- read.csv('input_data/5GdatasetAutoencoderLoss.csv')[,2]
 
 # Creating appropriate dataset based on the values encountered -----
 data <- data.frame(accuracy = acc,
